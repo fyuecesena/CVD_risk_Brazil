@@ -1,5 +1,5 @@
 # WHO_CVD_risk_Brazil
-Supplemental material for the manuscript “Percentiles of predicted 10-year cardiovascular disease risk by sex and age and their association with estimated long-term atherosclerotic cardiovascular disease risk”.
+Supplemental material for the manuscript “Percentiles of predicted 10-year cardiovascular disease risk by sex and age and their association with estimated risk of long-term atherosclerotic events”.
 
 Files and description:
 
