@@ -1,5 +1,5 @@
 # CVD_risk_Brazil
-Resources for calculating the 10-year risk of cardiovascular disease (CVD) and the corresponding sex- and age-specific percentile.
+Resources for calculating the 10-year risk of cardiovascular disease (CVD) and the corresponding sex- and age-specific percentile, according to the risk distribution among participants in the ELSA-Brasil study without atherosclerotic cardiovascular disease at baseline.
 
 Files and descriptions:
 
@@ -7,4 +7,4 @@ Files and descriptions:
 
 “calculator_WHO_CVD_risk_Brazil_POR.xlsx”: a Microsoft Excel file for the same calculator described above in Portuguese.
 
-“WHO_CVD_risk_Brazil.R”: R code to create new variables in a dataset for 10-year CVD risk and the corresponding sex- and age-specific percentile as described above. These new variables are created after setting variables for sex, age, systolic blood pressure, plasma total cholesterol level, presence of diabetes mellitus, and smoking status.
+“CVD_risk_Brazil.R”: R code to create new variables in a dataset for laboratory- and non-laboratory-based 10-year WHO CVD risk scores and the corresponding sex- and age-specific percentiles. These new variables are created after setting variables for sex, age, systolic blood pressure, plasma total cholesterol level, body mass index, presence of diabetes mellitus, and smoking status.
