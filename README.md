@@ -1,4 +1,4 @@
-# WHO_CVD_risk_Brazil
+# CVD_risk_Brazil
 Resources for calculating the 10-year risk of cardiovascular disease (CVD) and the corresponding sex- and age-specific percentile.
 
 Files and descriptions:
