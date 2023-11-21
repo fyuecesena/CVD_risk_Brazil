@@ -1,6 +1,6 @@
 # CVD_risk_Brazil
-Resources for calculating the 10-year risk of cardiovascular disease (CVD) and the corresponding sex- and age-specific percentile, according to the risk distribution among participants in the ELSA-Brasil study without atherosclerotic cardiovascular disease at baseline.
-A web application to calculate CVD risks and percentiles for sex and age is available at https://bit.ly/3sGsIgK.
+Resources for calculating the risk of cardiovascular disease (CVD) and the corresponding sex- and age-specific percentile, according to the risk distribution among participants in the ELSA-Brasil study without atherosclerotic cardiovascular disease at baseline.
+A web application to calculate the CVD risk and percentile for sex and age is available at https://bit.ly/3sGsIgK.
 
 Files and descriptions:
 
